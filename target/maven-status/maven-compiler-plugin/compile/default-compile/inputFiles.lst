@@ -1,0 +1,15 @@
+/Users/jacksun/IdeaProjects/untitled5/src/main/java/com/bigdata/hadoop/mr/access/AccessMapper.java
+/Users/jacksun/IdeaProjects/untitled5/src/main/java/com/bigdata/hadoop/mr/access/AccessLocalApp.java
+/Users/jacksun/IdeaProjects/untitled5/src/main/java/com/bigdata/hadoop/mr/access/AccessReducer.java
+/Users/jacksun/IdeaProjects/untitled5/src/main/java/com/bigdata/hadoop/mr/access/AccessYARNApp.java
+/Users/jacksun/IdeaProjects/untitled5/src/main/java/com/bigdata/hadoop/hdfs/Context.java
+/Users/jacksun/IdeaProjects/untitled5/src/main/java/com/bigdata/hadoop/mr/wc/WordCountReducer.java
+/Users/jacksun/IdeaProjects/untitled5/src/main/java/com/bigdata/hadoop/mr/wc/WordCountMapper.java
+/Users/jacksun/IdeaProjects/untitled5/src/main/java/com/bigdata/hadoop/hdfs/HDFSWCApp01.java
+/Users/jacksun/IdeaProjects/untitled5/src/main/java/com/bigdata/hadoop/mr/access/Access.java
+/Users/jacksun/IdeaProjects/untitled5/src/main/java/com/bigdata/hadoop/mr/access/AccessPartioner.java
+/Users/jacksun/IdeaProjects/untitled5/src/main/java/com/bigdata/hadoop/hdfs/WordCount.java
+/Users/jacksun/IdeaProjects/untitled5/src/main/java/com/bigdata/hadoop/hdfs/App.java
+/Users/jacksun/IdeaProjects/untitled5/src/main/java/com/bigdata/hadoop/mr/wc/WordCountApp.java
+/Users/jacksun/IdeaProjects/untitled5/src/main/java/com/bigdata/hadoop/hdfs/Mapper.java
+/Users/jacksun/IdeaProjects/untitled5/src/main/java/com/bigdata/hadoop/mr/wc/WordCountLocalApp.java
